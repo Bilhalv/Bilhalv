@@ -88,7 +88,7 @@
 <br>
 
 <li>
-<a href="pedrokabilhalva@gmail.com" target="_blank">
+<a href="malito:pedrokabilhalva@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  pedrokabilhalva-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
