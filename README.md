@@ -2,7 +2,8 @@
 <h1 align="center"><b>Hi , I'm Bilhalv </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture decoding="async" loading="lazy">
-  <img alt="github stats" src="[https://pixel-profile.vercel.app/api/github-stats?username=Bilhalv&theme=fuji](https://pixel-profile-ui.vercel.app/api/github-stats?username=bilhalv&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF)">
+	<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Bilhalv&theme=road_trip">
+	<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Bilhalv&screen_effect=true&theme=fuji">
 </picture>
 
 
