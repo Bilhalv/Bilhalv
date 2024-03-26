@@ -20,7 +20,7 @@
 - Studying TS, React.js and Phython
 - Playing everything at spare time
 - Currently learning Analysis and development of systems
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1tsmTpIk_V4m_4CmJ_rVq-KSqqiRxxkIq/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1lxFbGowKAXEuKO5LMGM7qE79WbCXFr_K?usp=sharing)
 
 <br><br>
 
