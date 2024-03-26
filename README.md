@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Bilhalv </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7738F7&width=435&lines=At+the+moment+studying+at+college;Learning+HTML%2C+CSS+and+JS;Love+challenging+myself" alt="Typing SVG" /></a>
+  <><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7738F7&width=435&lines=At+the+moment+studying+at+college;Learning+HTML%2C+CSS+and+JS;Love+challenging+myself](https://pixel-profile-ui.vercel.app/api/github-stats?username=bilhalv&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF)" alt="Typing SVG" /></a>
 </p>
 
 
