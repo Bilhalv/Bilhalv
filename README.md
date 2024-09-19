@@ -22,12 +22,8 @@
 - Currently learning System analysis and development
 - I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1ArvBxEQ1XkA0_qtu8symgY7N2RK19u6x?usp=sharing)
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 👨‍💻<b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -89,9 +85,5 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 <br>
