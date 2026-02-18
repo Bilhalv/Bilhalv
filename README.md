@@ -17,10 +17,9 @@
 
 <br>
 
-- Studying Expo and Prisma
 - Playing everything at spare time
-- Currently learning System analysis and development
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1ArvBxEQ1XkA0_qtu8symgY7N2RK19u6x?usp=sharing)
+- Currently studying Software engineering technician
+- I’m currently open for a new job opportunity
 
 
 ## 👨‍💻<b> Skills</b>
@@ -61,14 +60,11 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
-
-  <a href="https://github.com/bilhalv/">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Bilhalv&show_icons=true&hide=contribs&theme=transparent"/>
-
+<a href="https://github.com/bilhalv/">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Bilhalv&show_icons=true&hide=contribs&theme=transparent"/>
 </a>
 </div>
 
